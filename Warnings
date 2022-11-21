@@ -1,0 +1,64 @@
+<div class="container" style="max-width:1200px">
+    <div class="row">
+      <div class="col-md-4">
+
+         <div class="card-header bg-danger">
+            <p class="text-center" style="font-size:20px; text-space:3px">
+              <i class="fas fa-warning"></i>
+              PROFILE WARNING
+              <i class="fas fa-warning"></i>
+            </p>
+         </div>
+         <div class="card" style="overflow:auto ; max-height:150px">
+             <p class="p-2 text-danger" style="font-size:15px">
+                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+             </p>
+         </div>
+      </div>
+      
+      <div class="col-md-4">
+         <div class="card-header bg-danger">
+            <p class="text-center" style="font-size:20px; text-space:3px">
+              <i class="fas fa-warning"></i>
+              WARNING LIST
+              <i class="fas fa-warning"></i>
+            </p>
+         </div>
+         <div class="card" style="overflow:auto ; max-height:150px">
+             <p class="p-2 text-danger" style="font-size:15px">
+                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+             </p>
+             <ul class="text-danger" style="font-size:15px">
+                 <li>CW name here</li>
+                 <li>Add another</li>
+                 <li>Go crazy. It scrolls</li>
+             </ul>
+         </div>
+      </div>
+      
+      <div class="col-md-4">
+         <div class="card-header bg-danger">
+            <p class="text-center" style="font-size:20px; text-space:3px">
+              <i class="fas fa-warning"></i>
+               
+              DO NOT INTERACT
+               
+              <i class="fas fa-warning"></i>
+            </p>
+         </div>
+         <div class="card" style="overflow:auto ; max-height:150px">
+             <ul class="m-1 text-danger" style="font-size:15px">
+                 <li>DNI bullet 1</li>
+                 <li>Add as much as you'd like</li>
+                 <li>This container will scroll too.</li>
+             </ul>
+         </div>
+      </div>
+    </div>
+</div>
+
+<div class="container" style="max-width:340px; margin-top:20px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
