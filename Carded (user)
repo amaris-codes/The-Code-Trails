@@ -1,0 +1,43 @@
+<h6 class="display-3 text-primary text-center" style="margin: 2px;">
+    <i class="fal fa-moon"></i>
+    Username
+    <i class="fal fa-star"></i>
+</h6>
+
+<br>
+
+<div class="container" style="max-width:950px">
+  <div class="col-md-12">
+    <div class="card bg-faded border-1">
+        
+      <!-- HEADER & INFO -->
+      <div class="card-header">
+          
+              <img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?6?0" style="width: 14em; float: left">
+          <div class="row">
+              <div class="col-md-12">
+                  <b class="text-primary"><i class="far fa-info-circle"></i> About me</b>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                  <hr>
+                  <p><b class="text-primary"><i class="far fa-globe"></i> Social Links</b></p>
+                  <p>
+                    <a href="#" class="text-secondary"><i class="fab fa-instagram fa-2x"></i></a> 	 
+                    <a href="#" class="text-secondary"><i class="fab fa-twitch fa-2x"></i></a> 	 
+                    <a href="#" class="text-secondary"><i class="fab fa-twitter fa-2x"></i></a> 	 
+                    <a href="#" class="text-secondary"><i class="fab fa-tumblr fa-2x"></i></a> 	 
+                    <a href="#" class="text-secondary"><i class="fab fa-youtube fa-2x"></i></a>
+                  </p>
+              </div>
+           </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="container" style="max-width:340px; margin-top:20px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
