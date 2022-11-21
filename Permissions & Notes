@@ -1,0 +1,112 @@
+<div class="container" style="max-width:800px">
+  <div class="row">
+      
+     <div class="col-md-6">
+         <div class="card-header">
+             <p class="text-primary ; text-center" style="font-size:22px ; font-style:italic">
+                 Design Notes
+             </p>
+             <hr style="margin-top:-10px">
+             <p class="text-secondary text-center" style="font-size:14px ; margin-top:-12px">
+                 Markers:
+             </p>
+             <p class="text-secondary text-center" style="font-size:14px ; margin-top:-15px">
+                 <u> <i class="fas fa-diamond ; text-success"></i> Optional </u> &nbsp;
+                 <u> <i class="fas fa-diamond ; text-warning"></i> Ask for info </u> &nbsp;
+                 <u> <i class="fas fa-diamond ; text-danger"></i> Not optional </u>
+         </div>
+         <div class="card rounded-0">
+             <div class="container p-2" style="overflow:auto ; height:140px">
+                 <ul class="list-unstyled ; text-secondary">
+                 <li><i class="fas fa-diamond ; text-danger"></i> folded ears (can NOT be drawn pointed up)</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> fluffy violet hair (can be styled differently!)</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> band on face (hides missing eyes)</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> face scars</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> without eyes (has none)</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> with tail (and with matted tail "horn")</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> shirtless and/or without hoodie</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> mastectomy scars</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> hoodies</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> long-sleeve shirt</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> with track pants or suit-like pants</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> knee-high boots (black or dark blue)</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> protogen-like hands</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> wrist cuffs</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> r. hand self-harm scars</li>
+             </ul>
+             </div>
+         </div>
+     </div>
+     
+     <div class="col-md-6">
+         <div class="card-header">
+             <p class="text-primary ; text-center" style="font-size:22px ; font-style:italic">
+                 Drawing Permissions
+             </p>
+             <hr style="margin-top:-10px">
+             <p class="text-secondary text-center" style="font-size:14px ; margin-top:-12px">
+                 Markers:
+             </p>
+             <p class="text-secondary text-center" style="font-size:14px ; margin-top:-15px">
+                 <u> <i class="fas fa-diamond ; text-primary"></i> Friends </u> &nbsp;
+                 <u> <i class="fas fa-diamond ; text-success"></i> Okay </u> &nbsp;
+                 <u> <i class="fas fa-diamond ; text-warning"></i> Ask first </u> &nbsp;
+                 <u> <i class="fas fa-diamond ; text-danger"></i> Don't draw </u>
+         </div>
+         <div class="card rounded-0">
+             <div class="container p-2" style="overflow:auto ; height:140px">
+                 <ul class="list-unstyled ; text-secondary">
+                 <li><i class="fas fa-diamond ; text-danger"></i> different gender</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> different build</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> different race/species</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> different hairstyle</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> different clothing</li>
+                 <hr style="margin-top:6px">
+                 <li style="margin-top:-6px"><i class="fas fa-diamond ; text-success"></i> with pets/animals</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> with firearms</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> with bladed weapons</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> with tools</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> with magic</li>
+                 <hr style="margin-top:6px">
+                 <li style="margin-top:-6px"><i class="fas fa-diamond ; text-warning"></i> cuddling/snuggling</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> hugging</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> kissing and/or flirting</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> suggestive/non-sexual nudity</li>
+                 <li><i class="fas fa-diamond ; text-primary"></i> NSFW/lewd imagery</li>
+                 <hr style="margin-top:6px">
+                 <li style="margin-top:-6px"><i class="fas fa-diamond ; text-success"></i> drinking (no alcohol)</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> drinking (alcohol)</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> eating</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> smoking (cigarette, cigar, joint)</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> doing drugs</li>
+                 <hr style="margin-top:6px">
+                 <li style="margin-top:-6px"><i class="fas fa-diamond ; text-success"></i> mild injury (i.e scratches, bruises)</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> medium injury (i.e gashes)</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> severe injury (i.e bones showing)</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> regular gore</li>
+                 <li><i class="fas fa-diamond ; text-danger"></i> candy gore/other types of gore</li>
+                 <hr style="margin-top:6px">
+                 <li style="margin-top:-6px"><i class="fas fa-diamond ; text-warning"></i> happy/excited</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> confident</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> sad/depressive</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> angry/pissed off</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> surprised</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> embarassed</li>
+                 <li><i class="fas fa-diamond ; text-warning"></i> scared/fearful</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> happy/excited</li>
+                 <hr style="margin-top:6px">
+                 <li style="margin-top:-6px"><i class="fas fa-diamond ; text-success"></i> restrained (non-nsfw)</li>
+                 <li><i class="fas fa-diamond ; text-success"></i> More TBA soon</li>
+             </ul>
+             </div>
+         </div>
+     </div>
+     
+  </div>
+</div>
+
+<div class="container" style="margin-top:20px ; max-width:340px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
