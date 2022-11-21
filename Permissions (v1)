@@ -1,0 +1,209 @@
+<!--
+Drawing Permissions code by Nyxien's Paws.
+
+Change "check" to what is allowed (check itself), ask to draw (question), friends only (users), or don't draw at all (times).
+However, this is just the default. You can use whichever icon/symbol you'd like instead of these ones.
+-->
+
+<div class="mx-auto text-muted" style="max-width: 750px; font-size: 12px;">
+  <!--- breaker-->
+  <div class="col-lg-12">
+    <div class="card bg-faded" style="border-radius: 20px;">
+        <h3 class="text-center my-2">Drawing permissions</h3>
+        <p class="text-center p-2">
+          <u><i class="fas fa-check text-primary"></i> Allowed</u>      
+          <u><i class="fas fa-question text-warning"></i> Ask to draw</u>      
+          <u><i class="fas fa-users text-success"></i> Friends only</u>      
+          <u><i class="fas fa-times text-danger"></i> Do not draw</u>
+        </p>
+    </div>
+  </div>
+  
+  <br>
+  
+  <!--- INFO BOX -->
+  <div class="col-lg-12">
+    <div class="card bg-faded" style="border-radius: 20px;">
+    <div class="row p-3">
+        
+        
+      <!--- breaker-->
+        
+      <div class="col-lg">
+        <div class="d-flex justify-content-between">
+          <span >Different gender</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Different build</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Different species/race</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Different hairstyle</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Different clothing</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+      </div>
+      
+      <!--- breaker-->
+      <div class="col-auto">
+        <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+      </div>
+      <!--- breaker-->
+      
+      <div class="col-lg">
+        <div class="d-flex justify-content-between">
+          <span >Cuddling / Snuggling</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Hugging</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Kissing / Flirting</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Suggestive / Non-Sexual Nudity</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>NSFW/Lewd</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+      </div>
+
+      <!--- breaker-->
+      <div class="col-auto">
+        <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+      </div>
+      <!--- breaker-->
+      
+      <div class="col-lg">
+        <div class="d-flex justify-content-between">
+          <span>Mild injury (i.e scratches)</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Medium Injury (i.e gashes)</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Severe injury (i.e bones showing)</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Gore</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Candy gore/other types of gore</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+      </div>
+      
+      <!--- breaker-->
+      <div class="col-12">
+          <hr>
+      </div>
+      <!--- breaker-->
+      
+      <div class="col-lg">
+        <div class="d-flex justify-content-between">
+          <span >With pets/animals</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >With firearms</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >With bladed weapons</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >With tools</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >With magic</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+      </div>
+      
+      <!--- breaker-->
+      <div class="col-auto">
+        <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+      </div>
+      <!--- breaker-->
+      
+      <div class="col-lg">
+        <div class="d-flex justify-content-between">
+          <span >Drinking (non-alcoholic)</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Drinking (alcoholic)</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Eating</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Smoking / weed</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Drugs</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+      </div>
+    
+      <!--- breaker-->
+      <div class="col-auto">
+        <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+      </div>
+      <!--- breaker-->
+      
+      <div class="col-lg">
+        <div class="d-flex justify-content-between">
+          <span>Happy / excited / confident</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Sad / depressive / gloomy</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Angry / pissed off</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span>Surprised / embarassed</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+        <div class="d-flex justify-content-between">
+          <span >Scared / fearful</span>
+          <span class="text-primary"><i class="fas fa-check"></i></span>
+        </div>
+      </div>
+      
+  </div></div>
+  </div>
+  <!--- breaker-->
+</div>
+
+<div class="container" style="margin-top:20px ; max-width:340px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
