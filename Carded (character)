@@ -1,0 +1,162 @@
+<h1 class="display-3 text-primary text-center">
+  <i class="fal fa-moon"></i>
+  Character's name
+  <i class="fal fa-star"></i>
+</h1>
+
+<div class="container" style="max-width:1800px; margin-top:5px">
+  <div class="col-md-12">
+    <div class="card bg-faded border-1">
+        
+      <!-- HEADER & INFO -->
+      <div class="card-header">
+              <img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?6?0" style="width: 14em; float: left">
+          <div class="row">
+              <div class="col-md-4">
+                  <b class="text-primary">Primary</b>
+                  <ul>
+                    <li>Birth name: content</li>
+                    <li>Nickname(s): content</li>
+                    <li>Alias: content</li>
+                    <li>Age: #</li>
+                    <li>Birthday: content</li>
+                    <li>Zodiac: content</li>
+                    <li>Gender: content</li>
+                    <li>Sex: content</li>
+                    <li>Pronouns: pronouns</li>
+                 </ul>
+              </div>
+              <div class="col-md-4">
+                  <b class="text-primary">Secondary</b>
+                  <!-- First 5 points are: 
+                        Gender attraction(s), Romantic attraction, Sexual attraction, Tertiary attraction, and Relationship stance (monogamy, polyamory, etc)
+                  -->
+                  <ul>
+                    <li>Gen Attr: content</li>
+                    <li>Rom Attr: content</li>
+                    <li>Sexu Attr: content</li>
+                    <li>Tert Attr: content</li>
+                    <li>Rel Stance: content</li>
+                    <li>MBTI: content</li>
+                    <li>Nationality: content</li>
+                    <li>Race: content</li>
+                    <li>Residence: content</li>
+                 </ul>
+              </div>
+              <div class="col-md-4">
+                  <b class="text-primary">Tertiary</b>
+                  <ul>
+                    <li>Disor/Disab: content</li>
+                    <li>Magic: content</li>
+                    <li>Religion: content</li>
+                    <li>Alignment: content</li>
+                    <li>Parents: content</li>
+                    <li>Siblings: content</li>
+                    <li>S. Other: content</li>
+                    <li>Childeren: content</li>
+                    <li>Role/Occu: content</li>
+                 </ul>
+              </div>
+          </div>
+          
+      </div>
+      
+    <!-- CHARACTER PERSONALITY -->
+    <div class="container" style="padding: 1em">
+       <div class="col-md-12">
+         <div class="card bg-faded border-1">
+          <div class="row">
+              <div class="col-md-6">
+                  <h3 class="text-secondary"><i class="fas fa-users"></i> Persoanlity with others</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+              </div>
+              <div class="col-6">
+                  <h3 class="text-secondary"><i class="fas fa-user"></i> Persoanlity while alone</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+              </div>
+           </div>
+        </div>
+    </div>
+</div>
+    
+    <!-- TRIVIA -->
+    <div class="container" style="padding: 1em">
+       <div class="col">
+         <div class="card bg-faded border-1">
+          <div class="row">
+              <div class="col-md-4">
+                  <b class="text-success"><i class="fas fa-check"></i> Likes</b>
+                  <ul>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                 </ul>
+              </div>
+              <div class="col-md-4">
+                  <b class="text-warning"><i class="fas fa-dash"></i> Tolerates</b>
+                  <ul>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                 </ul>
+              </div>
+              <div class="col-md-4">
+                  <b class="text-danger"><i class="fas fa-times"></i> Dislikes</b>
+                  <ul>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                 </ul>
+              </div>
+              <div class="col-md-4">
+                  <b class="text-primary"><i class="fas fa-heart"></i> Favourites</b>
+                  <ul>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                 </ul>
+              </div>
+              <div class="col-md-4">
+                  <b class="text-info"><i class="fas fa-pencil"></i> Hobbies</b>
+                  <ul>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                 </ul>
+              </div>
+              <div class="col-md-4">
+                  <b class="text-danger"><i class="fas fa-triangle-exclamation"></i> Triggers</b>
+                  <ul>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                    <li>content</li>
+                 </ul>
+              </div>
+           </div>
+        </div>
+    </div>
+</div>
+ <div class="container" style="padding: 1em">
+  <div class="col-md-12">
+    <div class="card bg-faded border-1">
+        <div class="card-header">
+          <h1 class="display-4 text-primary" style="margin: 2px;">
+            <i class="fal fa-book"></i>
+            Story
+          </h1>
+          <p>This box does not scroll! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+        </div>
+      </div>
+    </div>
+
+<div class="container" style="max-width:340px; margin-top:20px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
