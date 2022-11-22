@@ -34,7 +34,7 @@
      
     <!--- INFO BOX -->
   <div class="col-md-12">
-    <div class="card bg-faded" style="height:440px">
+    <div class="card bg-faded" style="height:440px ; overflow:auto">
         
         <div class="row">
             <div class="col-md-8 mt-auto">
@@ -188,7 +188,7 @@
   <div class="tab-pane fade text-secondary" id="TRIVIA">
     <!--- INFO BOX -->
   <div class="col-md-12">
-    <div class="card bg-faded" style="height:525px">
+    <div class="card bg-faded" style="height:525px ; overflow:auto">
   
   <!--Row 1 starting-->
   <div class="row">
@@ -301,7 +301,7 @@
   <div class="tab-pane fade text-secondary" id="PERSONALITY">
     <!--- INFO BOX -->
   <div class="col-md-12">
-    <div class="card bg-faded" style="border-radius: 20px; height:525px">
+    <div class="card bg-faded" style="border-radius: 20px; height:525px ; overflow:auto">
   
   <!--Row 1 starting-->
   <div class="row">
