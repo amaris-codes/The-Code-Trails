@@ -1,3 +1,16 @@
+<div class="container">
+  <div class="row">
+    <div class="col-6 col-lg-2">
+      <a class="btn btn-secondary d-flex justify-content-center align-items-center h-100 py-3 px-1 rounded-0" href="https://github.com/nyxiens-paws/The-Code-Trails/raw/main/Carded%20(user)" style="white-space: normal;">Code Link</a>
+      </div>
+    <div class="col-6">
+      <p class="text-success">The user ver. of the character code! This was a lot of fun to make, haha. If you're on light theme, switch "bg-dark" to "bg-faded", otherwise the text cannot be read.</p>
+    </div>
+  </div>
+</div>
+
+  <hr>
+
 <h6 class="display-3 text-primary text-center" style="margin: 2px;">
     <i class="fal fa-moon"></i>
     Username
@@ -13,7 +26,10 @@
       <!-- HEADER & INFO -->
       <div class="card-header">
           
-              <img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?6?0" style="width: 14em; float: left">
+          <div class="m-auto ; rounded-circle" style="height: 150px; width: 150px;
+            background: url(https://www.pcclean.io/wp-content/uploads/2022/01/6506950072976019430.jpg)
+            center no-repeat; background-size: cover ; float-left">
+          </div>
           <div class="row">
               <div class="col-md-12">
                   <b class="text-primary"><i class="far fa-info-circle"></i> About me</b>
@@ -35,7 +51,7 @@
 </div>
 
 <!-- DO NOT REMOVE THIS BOX -->
-<div class="container" style="max-width:340px; margin-top:20px">
+<div class="container" style="margin-top:20px ; max-width:340px">
   <div class="card">
       <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
   </div>
