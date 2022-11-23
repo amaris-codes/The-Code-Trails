@@ -1,3 +1,16 @@
+<div class="container">
+  <div class="row">
+    <div class="col-6 col-lg-2">
+      <a class="btn btn-secondary d-flex justify-content-center align-items-center h-100 py-3 px-1 rounded-0" href="https://github.com/nyxiens-paws/The-Code-Trails/raw/main/Carded%20(character)" style="white-space: normal;">Code Link</a>
+      </div>
+    <div class="col-6">
+      <p class="text-success">This is my FIRST code and it has made me happy, all through creating it. It is a little messy in how the information has been organised however. Hope the code can still be enjoyed by others. That's all that matters to me.</p>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+
 <h1 class="display-3 text-primary text-center">
   <i class="fal fa-moon"></i>
   Character's name
@@ -10,7 +23,10 @@
         
       <!-- HEADER & INFO -->
       <div class="card-header">
-              <img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?6?0" style="width: 14em; float: left">
+              <div class="m-auto ; rounded-circle" style="height: 150px; width: 150px;
+                background: url(https://www.pcclean.io/wp-content/uploads/2022/01/6506950072976019430.jpg)
+                center no-repeat; background-size: cover ; float-left">
+              </div>
           <div class="row">
               <div class="col-md-4">
                   <b class="text-primary">Primary</b>
@@ -70,7 +86,7 @@
                   <h3 class="text-secondary"><i class="fas fa-users"></i> Persoanlity with others</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
               </div>
-              <div class="col-6">
+              <div class="col-md-6">
                   <h3 class="text-secondary"><i class="fas fa-user"></i> Persoanlity while alone</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
               </div>
@@ -156,7 +172,7 @@
     </div>
 
 <!-- DO NOT REMOVE THIS BOX -->
-<div class="container" style="max-width:340px; margin-top:20px">
+<div class="container" style="margin-top:20px ; max-width:340px">
   <div class="card">
       <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
   </div>
