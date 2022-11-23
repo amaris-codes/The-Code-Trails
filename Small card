@@ -1,0 +1,54 @@
+<div class="container" style="max-width:575px">
+  <div class="card-header" style="background-color:#07060b ; border-color:#8f26b6 ; border-width:15px">
+      
+      <div class="m-auto ; rounded-circle" style="height: 150px; width: 150px;
+      background: url(https://www.pcclean.io/wp-content/uploads/2022/01/6506950072976019430.jpg)
+      center no-repeat; background-size: cover">
+      </div>
+      
+      <p class="text-center" style="font-size:35px ; color:#9fe9ff ; margin-bottom:-10px">
+          <i class="fad fa-paw" style="color:#46bef2 ; font-size:44px"></i>
+           
+          Username
+           
+          <i class="fad fa-moon-stars" style="color:#46bef2 ; font-size:44px"></i>
+      </p>
+      
+      <p class="text-center" style="font-size:13px ; font-weight:500 ; font-style:italic ; color:#0a75d3 ; margin-top:15px">
+        Some information here (age, gender, pronouns, etc)
+      </p>
+      
+      <hr style="background-color:#8f26b6 ; margin-top:7px">
+      
+      <div>
+        <p class="text-left" style="font-size:15px ; font-weight:700 ; color:#46bef2 ; margin-top:-10px">
+            <i class="fad fa-bookmark" style="color:#46bef2"></i> Information
+        </p>
+        
+        <p class="text-left" style="font-size:13px ; color:#257bac ; margin-top:-10px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+        </p>
+      </div>
+      
+      <hr style="background-color:#8f26b6 ; margin-top:7px">
+      
+      <p style="margin-top:-7px">
+        <a href="https://"><i class="fas fa-id-card" style="color:#9fe9ff"></i> Carrd</a>  
+        <a href="https://"><i class="fab fa-deviantart" style="color:#9fe9ff"></i> DeviantArt</a>  
+        <a href="https://"><i class="fas fa-paw" style="color:#9fe9ff"></i> FurAffinity</a>  
+        <a href="https://"><i class="fab fa-spotify" style="color:#9fe9ff"></i> Spotify</a>  
+        <a href="https://"><i class="fab fa-twitter" style="color:#9fe9ff"></i> Twitter</a>  
+        <a href="https://"><i class="fab fa-youtube" style="color:#9fe9ff"></i> Youtube</a>  
+      </p>
+      
+      <hr style="background-color:#8f26b6 ; margin-top:7px">
+      
+  </div>
+</div>
+
+<!-- DO NOT REMOVE THIS BOX -->
+<div class="container" style="margin-top:20px ; max-width:340px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
