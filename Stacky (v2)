@@ -1,0 +1,251 @@
+<div class="container" style="max-width:1200px">
+  <div class="card">
+      <div class="row no-gutters">
+          <div class="col-md-3">
+              <div class="m-auto rounded-circle" style="height: 200px; width: 200px;
+                     background: url('https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/55320776_N8P.jpg')
+                     center no-repeat; background-size: cover;">
+              </div>
+              <hr style="margin-top:1px">
+              <p class="m-2 text-center text-secondary" style="font-size:18px ; font-style:italic">Character's name</p>
+              <p class="m-2 text-center text-secondary" style="font-size:13px ; font-style:italic">A quote from the character goes here. Keep it as small as possible!</p>
+          </div>
+          
+          <!--- breaker-->
+            <div class="col-auto">
+                <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+            </div>
+          <!--- breaker-->
+          
+          <div class="col-md-4 text-secondary p-3">
+             
+             <div class="d-flex justify-content-between" style="margin-top:-10px">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Birth name:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Preferred name:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Nickname(s):</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Age/Birthday/Zodiac</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Pronouns:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Gender:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <!-- This can be replaced with anything else if you don't want to disclose the character's sex and/or AGAB. -->
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Sex/AGAB:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Orientation:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <!-- Replace the hashtag with a link to a character, or remove the "<a></a>" brackets if the character does not have an S.O -->
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Significant Other:</u></b> </span>
+                <span> <a href="#">Character's name</a> </span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Disabilities:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Disorders:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Storyverse:</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Role(s):</u></b> </span>
+                <span>content</span>
+             </div>
+             
+             <div class="d-flex justify-content-between">
+                <span style="color:#e1bded ; font-style:italic"><i class="fas fa-chevron-right" style="color:#ec7ed7"></i> <b><u>Faction:</u></b> </span>
+                <span>content</span>
+             </div>
+          </div>
+          
+          <!--- breaker-->
+            <div class="col-auto">
+                <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+            </div>
+          <!--- breaker-->
+          
+          <div class="col-md-4 col-lg">
+              <p class="m-2" style="font-size:20px"> Personality</p>
+              <hr style="margin-top:-6px">
+              <div class="container" style="overflow:auto ; height:270px ; margin-top:-10px">
+                  <p class="m-2">
+                      Write your character's personality here. This box scrolls... So go crazy! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+                  </p>
+              </div>
+          </div>
+          
+      </div>
+  </div>
+</div>
+
+<div class="container" style="max-width:1200px ; margin-top:20px">
+  <p style="font-size:25px">Trivia/Other</p>
+  
+  <div class="card">
+       <div class="row">
+    
+    <!--Likes-->
+    <div class="col-md-4 py-3">
+      <div class="card border-0 rounded-0 h-100 text-muted">
+        <h3 class="text-center text-uppercase m-2 text-success"><i class="fas fa-check"></i> Likes</h3>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+        </ul>
+      </div>
+    </div> <!--likes end-->
+    
+    <!--Tolerates-->
+    <div class="col-md-4 py-3">
+      <div class="card border-0 rounded-0 h-100 text-muted">
+        <h3 class="text-center text-uppercase m-2 text-warning"><i class="fas fa-minus"></i> Tolerates</h3>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+        </ul>
+      </div>
+    </div> <!--tolerates end-->
+    
+    <!--Dislikes-->
+    <div class="col-md-4 py-3">
+      <div class="card border-0 rounded-0 h-100 text-muted">
+        <h3 class="text-center text-uppercase m-2 text-danger"><i class="fas fa-times"></i> Dislikes</h3>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+        </ul>
+      </div>
+    </div> <!--dislikes end-->
+    
+  </div> <!--row 1 ending-->
+  
+    <!--- breaker-->
+      <div class="col-auto">
+        <div class="card h-100 rounded-0" style="border-width:0 0 5px 0; border-color:#fff7"></div>
+      </div>
+    <!--- breaker-->
+
+     <!--Row 2 starting-->
+  <div class="row">
+    
+    <!--Faves-->
+    <div class="col-md-4 py-3">
+      <div class="card border-0 rounded-0 h-100 text-muted">
+        <h3 class="text-center text-uppercase m-2 text-primary"><i class="fas fa-heart"></i> Favourites</h3>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+        </ul>
+      </div>
+    </div> <!--Faves end-->
+    
+    <!--Hobbies-->
+    <div class="col-md-4 py-3">
+      <div class="card border-0 rounded-0 h-100 text-muted">
+        <h3 class="text-center text-uppercase m-2 text-info"><i class="fas fa-palette"></i> Hobbies</h3>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+        </ul>
+      </div>
+    </div> <!--hobbies end-->
+    
+    <!--Triggers-->
+    <div class="col-md-4 py-3">
+      <div class="card border-0 rounded-0 h-100 text-muted">
+        <h3 class="text-center text-uppercase m-2"><i class="fas fa-warning"></i> Triggers</h3>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+          <li class="list-group-item px-3 py-2">Unknown</li>
+        </ul>
+      </div>
+    </div> <!--triggers end-->
+    
+  </div> <!--row 2 ending-->
+  </div>
+</div>
+
+<div class="container" style="max-width:1200px ; margin-top:20px">
+    <p style="font-size:25px">Backstory</p>
+    <div class="card" style="overflow:auto ; height:180px">
+        <p class="m-2" style="font-size:20px">
+            <i class="far fa-star"></i> Header
+        </p>
+        <p class="p-2 text-secondary" style="margin-top:-12px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+        </p>
+        <div class="card border-0 rounded-0" style="height:2px ; margin-top:2px ; background-color: rgba(255,255,255,.1)"></div>
+        <p class="m-2" style="font-size:20px">
+            <i class="far fa-moon"></i> Header
+        </p>
+        <p class="p-2 text-secondary" style="margin-top:-12px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+        </p>
+        
+        <p class="m-2" style="font-size:20px">
+            <i class="far fa-moon"></i> Header
+        </p>
+        <p class="p-2 text-secondary" style="margin-top:-12px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+        </p>
+    </div>
+</div>
+
+<!-- DO NOT REMOVE THIS BOX -->
+<div class="container" style="margin-top:20px ; max-width:340px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
