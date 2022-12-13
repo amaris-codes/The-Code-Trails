@@ -1,0 +1,167 @@
+<div class="container" style="max-width:950px">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card" style="height:310px">
+                
+                <p class="text-center text-primary" style="font-size:35px">
+                    <i class="fal fa-moon-cloud"></i> Title here
+                </p>
+                <p class="text-center text-secondary" style="margin-top:-20px">
+                    <i class="fas fa-quote-left"></i>
+                    insert a quote here
+                    <i class="fas fa-quote-right"></i>
+                </p>
+                
+                <!-- ICON -->
+                <div class="col-12 p-1">
+                  <div class="m-auto" style="height: 230px; width: 275px;
+                     background: url(https://wallpapers.com/images/hd/purple-flowers-aesthetic-laptop-z6fezox6x2ydjm9x.jpg)
+                     center no-repeat; background-size: cover;">
+                  </div>
+               </div>
+               
+            </div>
+        </div>
+    
+        <div class="col-md-8">
+            <!--start of buttons-->
+            <ul class="nav justify-content-center">
+                 <!--1-->
+                 <li class="nav-item px-4">
+                     <a class="btn btn-block btn-outline-primary nav-link active" data-toggle="tab" href="#HISTORY">
+                         <i class="fal fa-info-circle"></i>
+                         History
+                    </a> 
+                </li>
+    
+                 <!--2-->
+                <li class="nav-item px-4">
+                    <a class="btn btn-block btn-outline-primary nav-link" data-toggle="tab" href="#GROUPS">
+                         <i class="fal fa-user-group"></i>
+                         Factions
+                    </a> 
+                </li>
+                
+                <!--3-->
+                <li class="nav-item px-4">
+                    <a class="btn btn-block btn-outline-primary nav-link" data-toggle="tab" href="#TERMS">
+                         <i class="fal fa-book"></i>
+                         Terminology
+                    </a> 
+                </li>
+                
+                <!--4-->
+                <li class="nav-item px-4">
+                    <a class="btn btn-block btn-outline-primary nav-link" data-toggle="tab" href="#OTHER">
+                         <i class="fal fa-leaf"></i>
+                         Flora & Fauna
+                    </a> 
+                </li>
+            </ul>
+            <!--end buttons-->
+            <div class="card" style="overflow:auto ; height:265px ; margin-top:10px">
+                <!--TAB CONTENT-->
+                <div class="tab-content">
+                    
+                    <div class="tab-pane fade show active text-secondary" id="HISTORY">
+                        <div class="col-md-12">
+                            <div class="container-fluid" style="overflow:auto ; margin-top:5px">
+                                <div>
+                                    <hr>
+                                    <p style="font-size:18px">THE HISTORY OF ____</p>
+                                    <hr>
+                                </div>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Subheader </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Subheader </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Subheader </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane fade show text-secondary" id="GROUPS">
+                        <div class="col-md-12">
+                            <div class="container-fluid" style="overflow:auto ; margin-top:5px">
+                                <div>
+                                    <hr>
+                                    <p style="font-size:18px">KNOWN GROUPS</p>
+                                    <hr>
+                                </div>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Faction name </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Faction name </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Faction name </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane fade show text-secondary" id="TERMS">
+                        <div class="col-md-12">
+                            <div class="container-fluid" style="overflow:auto ; margin-top:5px">
+                                <div>
+                                    <hr>
+                                    <p style="font-size:18px">STORY TERMS</p>
+                                    <hr>
+                                </div>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Term </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Term </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Term </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Term </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Term </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane fade show text-secondary" id="OTHER">
+                        <div class="col-md-12">
+                            <div class="container-fluid" style="overflow:auto ; height:255px ; margin-top:5px">
+                                <div>
+                                    <hr>
+                                    <p style="font-size:18px">PLANTS & ANIMALS OF ___</p>
+                                    <hr>
+                                </div>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Name • type </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Name • type </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                                
+                                <p style="font-size:16px; font-style:italic"><i class="fal fa-bookmark"></i> Name • type </p>
+                                <p style="margin-top:-15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- DO NOT REMOVE THIS BOX -->
+<div class="container" style="margin-top:20px ; max-width:340px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/nyxiens_codes"><i class="fas fa-paw"></i> Code by Nyxien's paws</a></p>
+  </div>
+</div>
