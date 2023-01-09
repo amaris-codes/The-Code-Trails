@@ -1,0 +1,147 @@
+<div class="container" style="max-width:800px">
+    
+    <!--NAME-->
+  <div class="row align-items-center">
+    <div class="col-lg px-2 pb-2 pt-0">
+        <div class="card" style="background-color:#5454ff"></div>
+    </div>
+    
+    <div class="col-lg-auto px-2 pb-2 pt-0 text-center">
+      <p class="mb-0" style="font-size:30px; color:#33aaff"> Character's name <i class="fal fa-cloud-snow" style="color:#33ccff"></i></p>
+    </div>
+  </div>
+  
+</div>
+
+<div class="container" style="background-image: url('https://wallpaperboat.com/wp-content/uploads/2020/04/winter-aesthetic-wallpaper-image.jpg'); 
+  background-position: center; border-radius:15px ; max-width:800px">
+    
+    <div class="container" style="max-width:750px">
+        <div class="row" style="margin-top:-10px">
+   
+    <!--RIGHT COLUMN (ICON)-->
+        <div class="col-lg-4 p-2">
+          <img class="d-block mx-auto rounded-circle img-thumbnail" style="margin-top:30px; width:350px; background-color:rgba(0,0,0,.75)" src="https://i0.wp.com/www.lifeofanarchitect.com/wp-content/uploads/2016/03/Snowflake-thumbnail.jpg?ssl=1">
+        </div> <!--right column (icon) end-->
+   
+    <!--RIGHT COLUMN (INFO)-->
+    <div class="col-lg-8 px-2 pb-2 pt-0">
+     
+      <!--INFO-->
+      <div class="card bg-faded border-0 rounded-0 p-1 mt-2" style="overflow:auto; height:285px; background-color:rgba(0,0,0,.85)">
+       
+        <!--BASIC INFO/ ICON-->
+        <div class="container-fluid">
+          <div class="row align-items-center">
+           
+            <!--LEFT COLUMN (BASIC INFO)-->
+            <div class="col-lg p-2">
+              <ul class="list-group list-group text-secondary">
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase" style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> BIRTH NAME</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> PREFERRED NAME</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> AGE & BIRTHDAY</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> PRONOUNS</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> GENDER</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> SEX/AGAB</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> ORIENTATION</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> SIGNIFICANT OTHER</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> SPECIES/RACE</span>
+                  content
+                </li>
+                
+                <li class="list-group-item bg-transparent justify-content-between p-2">
+                  <span class="text-uppercase"  style="color:#33aaff"> <i class="fal fa-snowflake" style="color:#33ccff"></i> RESIDENCE</span>
+                  content
+                </li>
+              </ul>
+            </div> <!--left column (basic info) end-->
+           
+          </div>
+        </div> <!--basic info/ icon end-->
+       
+       <div class="card border-0 rounded-0 p-3 mt-1">
+          <p class="mb-0 pl-4" style="font-size:20px">
+              <i class="fal fa-gear" style="color:#33ccff"></i> Personality
+          </p>
+          <p class="mb-0 pl-4">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+          </p>
+       </div>
+       
+       <div class="card border-0 rounded-0 p-3 mt-1">
+          <p class="mb-0 pl-4" style="font-size:20px">
+              <i class="fal fa-books" style="color:#33ccff"></i> Backstory
+          </p>
+          <p class="mb-0 pl-4">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+          </p>
+       </div>
+       
+        <div class="card border-0 rounded-0 p-3 mt-1">
+          <p class="mb-0 pl-4" style="font-size:20px">
+              <i class="fal fa-info-circle" style="color:#33ccff"></i> Trivia
+          </p>
+          <ul class="mb-0 pl-4">
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+            <li>Duis sollicitudin elit sed tellus blandit viverra sed eget odio.</li>
+            <li>Donec accumsan tempor lacus, et venenatis elit feugiat non.</li>
+            <li>Duis porta eros et velit blandit dapibus.</li>
+          </ul>
+        </div>
+       
+      </div> <!--info end-->
+     
+    </div> <!--right column (info) end-->
+   
+  </div>
+    </div>
+</div>
+
+<!-- DO NOT REMOVE THIS BOX | Replace the "#"s here with icon artist and background credits -->
+<div class="container" style="margin-top:20px ; max-width:450px">
+  <div class="card">
+      <p class="m-2 text-center" style="color:#0aa">
+          <a href="https://toyhou.se/nyxiens_codes" style="color:#fff">
+              <i class="fal fa-paw"></i> Code by Nyxien's paws</a>
+          |
+          <a href="#" style="color:#fff">
+              <i class="fal fa-image"></i> Background credit</a>
+          |
+          <a href="#" style="color:#fff">
+              <i class="fal fa-user"></i> Icon credit</a>
+      </p>
+  </div>
+</div>
