@@ -1,3 +1,11 @@
+<!-- WINTER WONDERLAND
+
+- Text colour: #33aaff
+- OC Info colour: text-secondary
+- Icon colour: #33ccff
+
+-->
+
 <div class="container" style="max-width:800px">
     
     <!--NAME-->
@@ -92,29 +100,29 @@
           </div>
         </div> <!--basic info/ icon end-->
        
-       <div class="card border-0 rounded-0 p-3 mt-1">
-          <p class="mb-0 pl-4" style="font-size:20px">
+       <div class="card border-0 rounded-0 p-3 mt-1" style="background-color:rgba(0,200,255,.2)">
+          <p class="mb-0 pl-4" style="font-size:20px; color:#33aaff">
               <i class="fal fa-gear" style="color:#33ccff"></i> Personality
           </p>
-          <p class="mb-0 pl-4">
+          <p class="mb-0 pl-4 text-secondary">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
           </p>
        </div>
        
-       <div class="card border-0 rounded-0 p-3 mt-1">
-          <p class="mb-0 pl-4" style="font-size:20px">
+       <div class="card border-0 rounded-0 p-3 mt-1" style="background-color:rgba(0,200,255,.2)">
+          <p class="mb-0 pl-4" style="font-size:20px; color:#33aaff">
               <i class="fal fa-books" style="color:#33ccff"></i> Backstory
           </p>
-          <p class="mb-0 pl-4">
+          <p class="mb-0 pl-4 text-secondary">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
           </p>
        </div>
        
-        <div class="card border-0 rounded-0 p-3 mt-1">
-          <p class="mb-0 pl-4" style="font-size:20px">
+        <div class="card border-0 rounded-0 p-3 mt-1" style="background-color:rgba(0,200,255,.2)">
+          <p class="mb-0 pl-4" style="font-size:20px; color:#33aaff">
               <i class="fal fa-info-circle" style="color:#33ccff"></i> Trivia
           </p>
-          <ul class="mb-0 pl-4">
+          <ul class="mb-0 pl-4 text-secondary">
             <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
             <li>Duis sollicitudin elit sed tellus blandit viverra sed eget odio.</li>
             <li>Donec accumsan tempor lacus, et venenatis elit feugiat non.</li>
