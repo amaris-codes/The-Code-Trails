@@ -1,0 +1,94 @@
+<div class="container" style="max-width:1200px">
+    <div class="row">
+        
+        <div class="col-md-6">
+            <div class="card-header">
+                <p class="font-italic text-primary" style="font-size:20px">Wishlist</p>
+            </div>
+            <div class="card bg-faded rounded-0" style="height:230px; overflow:auto">
+                <p class="p-2 font-italic text-secondary">Information goes here. Maybe a little bit, or make it however long you want. It'll scroll. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                <ul class="text-secondary">
+                    <li>
+                        <a href="#">Artist name/user</a>
+                        <ul>
+                            <li>info</li>
+                            <li>info</li>
+                            <li>info</li>
+                        </ul>
+                    </li>
+                    <hr>
+                    <li>
+                        <a href="#">Artist name/user</a>
+                        <ul>
+                            <li>info</li>
+                            <li>info</li>
+                            <li>info</li>
+                        </ul>
+                    </li>
+                    <hr>
+                    <li>
+                        <a href="#">Artist name/user</a>
+                        <ul>
+                            <li>info</li>
+                            <li>info</li>
+                            <li>info</li>
+                        </ul>
+                    </li>
+                    <hr>
+                    <li>
+                        <a href="#">Artist name/user</a>
+                        <ul>
+                            <li>info</li>
+                            <li>info</li>
+                            <li>info</li>
+                        </ul>
+                    </li>
+                    <hr>
+                    <li>
+                        <a href="#">Artist name/user</a>
+                        <ul>
+                            <li>info</li>
+                            <li>info</li>
+                            <li>info</li>
+                        </ul>
+                    </li>
+                    <hr>
+                    <li>
+                        <a href="#">Artist name/user</a>
+                        <ul>
+                            <li>info</li>
+                            <li>info</li>
+                            <li>info</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card-header">
+                <p class="font-italic text-primary" style="font-size:20px">Characters available for drawing</p>
+            </div>
+            <div class="card bg-faded rounded-0" style="height:230px; overflow:auto">
+                <p class="text-center">
+                    <!-- copy & paste these lines of code however many times you want! Replace "CHARACTER_LINK" & "CHARACTER_IMAGE" with the stuff that links to the characters -->
+                  <a class="btn btn-outline-secondary p-0 rounded-circle m-1" style="border:2px dotted;" href="CHARACTER_LINK"><img class="rounded-circle" style="width:80px;" src="CHARACTER_IMAGE"></a>
+                  
+                  <a class="btn btn-outline-secondary p-0 rounded-circle m-1" style="border:2px dotted;" href="CHARACTER_LINK"><img class="rounded-circle" style="width:80px;" src="CHARACTER_IMAGE"></a>
+                    <!-- paste anove this line only -->
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<!-- DO NOT REMOVE THIS BOX | Replace the "#"s here with icon artist and background credits -->
+<div class="container" style="margin-top:20px ; max-width:250px">
+  <div class="card">
+      <p class="m-2 text-center" style="color:#0aa">
+          <a href="https://toyhou.se/nyxiens_codes" style="color:#fff">
+              <i class="fal fa-paw"></i> Code by Nyxien's paws</a>
+      </p>
+  </div>
+</div>
