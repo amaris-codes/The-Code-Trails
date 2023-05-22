@@ -1,0 +1,288 @@
+<!--ROUNDED LINES WITH ICON IN DIAMOND CONTAINER IN CENTER (CUSTOM)-->
+<div class="row no-gutters align-items-center my-3">
+  <div class="col mr-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+  <!--ICON-->
+  <div class="col-auto">
+    <div class="card border-0 rounded-0 justify-content-center align-items-center p-1" style="width:75px; height:75px; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); background-color:#461478; color:#ffffff;">
+      <i class="fal fa-stars fa-2x"></i>
+    </div>
+  </div> <!--icon end-->
+  <div class="col ml-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+</div>
+
+
+
+<div class="row no-gutters">
+    
+    <!-- Icon -->
+    <div class="col-md-3">
+        <div class="card bg-faded border-1 border-right-0 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2 align-items-center">
+                
+                <div>
+                    <!-- Icon drawn by collietides @ TH! -->
+                    <img class="dx-auto border-0 img-thumbnail" style="height:228px; width:228px" src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/65024576_G2R.png">
+                    
+                    <div class="card border-0 rounded-0 px-1 py-1 mb-2 mt-2" style="background-color:#000">
+                        <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Full Name: <span class="pull-right text-muted">content</span></p>
+                    </div>
+                </div>
+                
+          
+            </div>
+        </div> <!--info end-->
+    </div>
+    
+    <!-- Info 1 -->
+    <div class="col-md-4">
+        <!--Info -->
+        <div class="card bg-faded border-1 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2">
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Preferred: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Nickname: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Age: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Birthday: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Zodiac: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Pronouns: <span class="pull-right text-muted">content</span></p>
+                </div>
+          
+            </div>
+        </div> <!--info end-->
+    </div>
+    
+    <!-- Info 1 -->
+    <div class="col-md-5">
+        <!--Info -->
+        <div class="card bg-faded border-1 border-left-0 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2">
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> General attr: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Romanticism: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Sexuality: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Tertiary: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Amory Pref: <span class="pull-right text-muted">content</span></p>
+                </div>
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Marital Status/S.O: <span class="pull-right text-muted">content</span></p>
+                </div>
+          
+            </div>
+        </div> <!--info end-->
+    </div>
+    
+</div>
+
+
+
+<!--ROUNDED LINES WITH ICON IN DIAMOND CONTAINER IN CENTER (CUSTOM)-->
+<div class="row no-gutters align-items-center my-3">
+  <div class="col mr-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+  <!--ICON-->
+  <div class="col-auto">
+    <div class="card border-0 rounded-0 justify-content-center align-items-center p-1" style="width:75px; height:75px; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); background-color:#461478; color:#ffffff;">
+      <i class="fal fa-stars fa-2x"></i>
+    </div>
+  </div> <!--icon end-->
+  <div class="col ml-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+</div>
+
+
+
+<div class="row">
+    
+    <!-- Personality -->
+    <div class="col-md-4">
+        <div class="card bg-faded border-1 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2">
+ 
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2; font-size:18px"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Personality</p>
+                    
+                    <div class="container- mt-2" style="height:150px; overflow:auto">
+                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+    <!-- Backstory -->
+    <div class="col-md-8">
+        <div class="card bg-faded border-1 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2">
+ 
+                
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <div class="container-" style="height:184px; overflow:auto">
+                        <p style="color:#8b33e2; font-size:18px"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Backstory Summary</p>
+                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                        
+                        <hr>
+                        
+                        <p style="color:#8b33e2; font-size:18px"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Subheader</p>
+                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+
+<!--ROUNDED LINES WITH ICON IN DIAMOND CONTAINER IN CENTER (CUSTOM)-->
+<div class="row no-gutters align-items-center my-3">
+  <div class="col mr-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+  <!--ICON-->
+  <div class="col-auto">
+    <div class="card border-0 rounded-0 justify-content-center align-items-center p-1" style="width:75px; height:75px; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); background-color:#461478; color:#ffffff;">
+      <i class="fal fa-stars fa-2x"></i>
+    </div>
+  </div> <!--icon end-->
+  <div class="col ml-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+</div>
+
+
+
+<div class="row">
+    
+    <!-- Likes -->
+    <div class="col-md-4">
+        <div class="card bg-faded border-1 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2">
+ 
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2; font-size:18px"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Likes</p>
+                    
+                    <div class="container- mt-2" style="height:150px; overflow:auto">
+                        <ul class="text-muted">
+                           <li>content</li>
+                           <li>content</li>
+                           <li>content</li> 
+                           <li>content</li> 
+                           <li>content</li> 
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+    <!-- Dislikes -->
+    <div class="col-md-4">
+        <div class="card bg-faded border-1 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2">
+ 
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2; font-size:18px"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Dislikes</p>
+                    
+                    <div class="container- mt-2" style="height:150px; overflow:auto">
+                        <ul class="text-muted">
+                           <li>content</li>
+                           <li>content</li>
+                           <li>content</li> 
+                           <li>content</li> 
+                           <li>content</li> 
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+    <!-- Fears -->
+    <div class="col-md-4">
+        <div class="card bg-faded border-1 rounded-0" style="border-color:#461478; border-width:4px">
+            <div class="card border-0 rounded-0 px-2 pt-2">
+ 
+                <div class="card bg-faded border-0 rounded-0 px-3 py-2 mb-2" style="background-color:#000">
+                    <p style="color:#8b33e2; font-size:18px"><i class="fal fa-chevron-right" style="color:#ffffff"></i> Fears</p>
+                    
+                    <div class="container- mt-2" style="height:150px; overflow:auto">
+                        <ul class="text-muted">
+                           <li>content</li>
+                           <li>content</li>
+                           <li>content</li> 
+                           <li>content</li> 
+                           <li>content</li> 
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+
+<!--ROUNDED LINES WITH ICON IN DIAMOND CONTAINER IN CENTER (CUSTOM)-->
+<div class="row no-gutters align-items-center my-3">
+  <div class="col mr-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+  <!--ICON-->
+  <div class="col-auto">
+    <div class="card border-0 rounded-0 justify-content-center align-items-center p-1" style="width:75px; height:75px; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); background-color:#461478; color:#ffffff;">
+      <i class="fal fa-stars fa-2x"></i>
+    </div>
+  </div> <!--icon end-->
+  <div class="col ml-n1">
+    <div class="card border-0 rounded-0 p-1" style="background-color:#461478"></div>
+  </div>
+</div>
+
+<div class="justify-content-center">
+    <div class="card" style="width:325px">
+        <p class="p-1 text-center">Code by: <a href="https:/toyhou.se/amaris_"><i class="fal fa-moon-stars"></i> Amaris</a> | Dividers from @aurorean</p>
+    </div>
+</div>
