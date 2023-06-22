@@ -1,0 +1,175 @@
+<div class="card rounded-0">
+    <h1 class="display-4 m-2 pl-3 font-weight-light" style="letter-spacing:0.2em"><i class="fas fa-moon-stars"></i> Main Header/title</h1>
+        <div class="card mb-2 mx-2"></div>
+    <p class="m-2 text-muted">This is where you type in information about your art service (though it's able to be changed into other services as well).</p>
+    
+    <p class="m-2 text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+</div>
+
+<hr>
+
+<div class="row">
+    
+    <!-- permissions things -->
+    <div class="col-md-6">
+        
+        <!--Buttons-->
+      <ul class="nav nav-pills mb-1 justify-content-center">
+        <li class="nav-item mr-1">
+            <a class="nav-link active btn btn-secondary align-items-center justify-content-center text-muted" data-toggle="pill" href="#CAN" style="width:160px; border-radius:0px">CAN DRAW</a>
+        </li>
+        
+        <li class="nav-item ml-1">
+            <a class="nav-link btn btn-secondary align-items-center justify-content-center text-muted" data-toggle="pill" href="#CANT" style="width:160px; border-radius:0px">CAN'T DRAW</a>
+        </li>
+      </ul> <!--pills end-->
+      
+        <!--Info-->
+      <div class="card rounded-0" style="height:300px; overflow:auto">
+          <div class="tab-content">
+            
+            <div class="tab-pane fade show active" id="CAN">
+                <ul class="m-2 text-muted">
+                    <li>what you can draw goes here.</li>
+                    <li>you can go as long as you want; it'll scroll.</li>
+                    <li>just replace the text with what you want to add!</li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                    <li>Duis sollicitudin elit sed tellus blandit viverra sed eget odio.</li>
+                    <li>Donec accumsan tempor lacus, et venenatis elit feugiat non.</li>
+                    <li>Duis porta eros et velit blandit dapibus.</li>
+                    <li>Curabitur ac finibus eros.</li>
+                    <li>Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</li>
+                </ul>
+            </div>
+            
+            <div class="tab-pane fade show" id="CANT">
+                <ul class="m-2 text-muted">
+                    <li>what you can't draw goes here.</li>
+                    <li>you can go as long as you want; it'll scroll.</li>
+                    <li>just replace the text with what you want to add!</li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                    <li>Duis sollicitudin elit sed tellus blandit viverra sed eget odio.</li>
+                    <li>Donec accumsan tempor lacus, et venenatis elit feugiat non.</li>
+                    <li>Duis porta eros et velit blandit dapibus.</li>
+                    <li>Curabitur ac finibus eros.</li>
+                    <li>Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</li>
+                </ul>
+            </div>
+            
+          </div>
+      </div>
+      
+    </div>
+    
+    
+    
+    <!-- examples -->
+    <div class="col-md-6">
+        
+        <!--Buttons-->
+      <ul class="nav nav-pills mb-1 justify-content-center">
+        <li class="nav-item mr-1">
+            <a class="nav-link active btn btn-secondary align-items-center justify-content-center text-muted" data-toggle="pill" href="#BUST" style="width:120px; border-radius:0px">BUSTS</a>
+        </li>
+        
+        <li class="nav-item ml-1">
+            <a class="nav-link btn btn-secondary align-items-center justify-content-center text-muted" data-toggle="pill" href="#HALF" style="width:120px; border-radius:0px">HALFBODIES</a>
+        </li>
+        
+        <li class="nav-item ml-1">
+            <a class="nav-link btn btn-secondary align-items-center justify-content-center text-muted" data-toggle="pill" href="#FULL" style="width:120px; border-radius:0px">FULLBODIES</a>
+        </li>
+        
+        <li class="nav-item ml-1">
+            <a class="nav-link btn btn-secondary align-items-center justify-content-center text-muted" data-toggle="pill" href="#CUSTOM" style="width:120px; border-radius:0px">CUSTOMS</a>
+        </li>
+      </ul> <!--pills end-->
+      
+        <!--Info-->
+      <div class="card rounded-0" style="height:300px; overflow:auto">
+          <div class="tab-content">
+            
+            <div class="tab-pane fade show active" id="BUST">
+                <div class="card m-2 rounded-0">
+                    <ul class="text-muted m-2">
+                        <li><b>About option:</b> describe a little bit here.</li>
+                        <li><b>Pricing:</b> pricing / price choices</li>
+                    </ul>
+                    
+                </div>
+                
+                <div class="card m-2 rounded-0 border-0 align-items-center">
+                    <img class="dx-auto rounded-0 border-0 img-thumbnail" src="https://images.unsplash.com/photo-1477511801984-4ad318ed9846" style="width:250px">
+                </div>
+            </div>
+            
+            <div class="tab-pane fade show" id="HALF">
+                <div class="card m-2 rounded-0">
+                    <ul class="text-muted m-2">
+                        <li><b>About option:</b> describe a little bit here.</li>
+                        <li><b>Pricing:</b> pricing / price choices</li>
+                    </ul>
+                    
+                </div>
+                
+                <div class="card m-2 rounded-0 border-0 align-items-center">
+                    <img class="dx-auto rounded-0 border-0 img-thumbnail ml-2" src="https://images.unsplash.com/photo-1541927634837-a7d5c4892527" style="width:250px">
+                </div>
+            </div>
+            
+            <div class="tab-pane fade show" id="FULL">
+                <div class="card m-2 rounded-0">
+                    <ul class="text-muted m-2">
+                        <li><b>About option:</b> describe a little bit here.</li>
+                        <li><b>Pricing:</b> pricing / price choices</li>
+                    </ul>
+                    
+                </div>
+                
+                <div class="card m-2 rounded-0 border-0 align-items-center">
+                    <img class="dx-auto rounded-0 border-0 img-thumbnail ml-2" src="https://images.unsplash.com/photo-1477511801984-4ad318ed9846" style="width:250px">
+                </div>
+            </div>
+            
+            <div class="tab-pane fade show" id="CUSTOM">
+                <div class="card m-2 rounded-0">
+                    <ul class="text-muted m-2">
+                        <li><b>About option:</b> describe a little bit here.</li>
+                        <li><b>Pricing:</b> pricing / price choices</li>
+                    </ul>
+                    
+                </div>
+                
+                <div class="card m-2 rounded-0 border-0 align-items-center">
+                    <img class="dx-auto rounded-0 border-0 img-thumbnail ml-2" src="https://images.unsplash.com/photo-1541927634837-a7d5c4892527" style="width:250px">
+                </div>
+            </div>
+          </div>
+      </div>
+      
+    </div>
+</div>
+
+<hr>
+
+<div class="card rounded-0">
+    <h1 class="display-4 m-2 pl-3 font-weight-light" style="letter-spacing:0.2em"><i class="fas fa-moon-stars"></i> Form to fill</h1>
+        <div class="card mb-2 mx-2"></div>
+    
+    <ul>
+        <li><b>List item:</b> information here</li>
+        <li><b>List item:</b> information here</li>
+        <li><b>List item:</b> information here</li>
+        <li><b>List item:</b> information here</li>
+        <li><b>List item:</b> information here</li>
+        <li><b>List item:</b> information here</li>
+    </ul>
+</div>
+
+<hr>
+
+<div class="justify-content-center mb-3">
+    <div class="card" style="width:325px">
+        <p class="p-1 text-center">Code by: <a href="https://toyhou.se/amaris_"><i class="fal fa-moon-stars"></i> Amaris</a></p>
+    </div>
+</div>
