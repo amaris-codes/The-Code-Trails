@@ -83,12 +83,9 @@
     </div>
 </div>
 
-<!-- DO NOT REMOVE THIS BOX | Replace the "#"s here with icon artist and background credits -->
-<div class="container" style="margin-top:20px ; max-width:250px">
+<!-- DO NOT REMOVE THIS BOX -->
+<div class="container" style="margin-top:20px ; max-width:340px">
   <div class="card">
-      <p class="m-2 text-center" style="color:#0aa">
-          <a href="https://toyhou.se/nyxiens_codes" style="color:#fff">
-              <i class="fal fa-paw"></i> Code by Nyxien's paws</a>
-      </p>
+      <p class="m-2 text-center"><a href="https://toyhou.se/amaris_"><i class="fas fa-moon-stars"></i> Code by Amaris</a></p>
   </div>
 </div>
