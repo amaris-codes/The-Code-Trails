@@ -15,12 +15,12 @@ Replace "#" with links.
     <div class="card rounded-0" style="border-color:#dd3439; background-color:#000000">
     
         <div class="row no-gutters align-items-center">
-        <div class="col-md-4">
+        <div class="col-lg-4">
             <!-- Use square (200 x 200) image -->
             <img src="#" class="p-2 rounded-circle border-1">
         </div>
         
-        <div class="col-md-8">
+        <div class="col-lg-8">
             <p>
                 Some text can go here.
             </p>
@@ -51,22 +51,22 @@ Replace "#" with links.
             <div class="row">
             
             <!-- Use square (200 x 200) images -->
-            <div class="col-md-3">
+            <div class="col-lg-3">
                 <img src="#" style="width:150px; height:150px">
                 <a class="btn btn-outline-primary rounded-0 mt-1" style="color:#ffa749; border-color:#dd3439; width:150px" href="#"> Character name</a>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-lg-3">
                 <img src="#" style="width:150px; height:150px">
                 <a class="btn btn-outline-primary rounded-0 mt-1" style="color:#ffa749; border-color:#dd3439; width:150px" href="#"> Character name</a>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-lg-3">
                 <img src="#" style="width:150px; height:150px">
                 <a class="btn btn-outline-primary rounded-0 mt-1" style="color:#ffa749; border-color:#dd3439; width:150px" href="#"> Character name</a>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-lg-3">
                 <img src="#" style="width:150px; height:150px">
                 <a class="btn btn-outline-primary rounded-0 mt-1" style="color:#ffa749; border-color:#dd3439; width:150px" href="#"> Character name</a>
             </div>
