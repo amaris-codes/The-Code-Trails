@@ -50,6 +50,7 @@
                 
                 <div class="card mx-auto text-center mt-2 border-0">
                     <h1 class="pt-1 font-italic">Character's name</h1>
+                    <p>a little quote here, if you'd like.</p>
                 </div>
             </div>
             
