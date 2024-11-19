@@ -24,7 +24,7 @@ Text: #c8ff0f
             <div class="col-lg-4">
                 <ul class="list-group list-group-flush">
                 <li class="list-group-item d-flex justify-content-between align-items-center px-3 py-2" style="background-color:#2ea134">
-                  <span class="text-muted text-uppercase font-weight-bold">Creator/Designer</span>
+                  <span class="text-uppercase font-weight-bold" style="color:#c8ff0f">Creator/Designer</span>
                   Unknown
                 </li>
                 <li class="list-group-item d-flex justify-content-between align-items-center px-3 py-2" style="background-color:#2ea134">
