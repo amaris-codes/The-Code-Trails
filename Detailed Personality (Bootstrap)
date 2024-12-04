@@ -1,0 +1,84 @@
+<!-- 
+
+PERSONALITY-BASED CHARACTER
+For exploring character personalities in-depth.
+
+--> 
+
+<div class="container p-1">
+    
+    <div class="card p-2 border-0 rounded-0 bg-faded">
+        <div class="row no-gutters">
+            
+            <div class="col-lg-9 mx-auto">
+                <div class="card border-0 rounded-0 p-1">
+                    <p class="pl-3 text-muted" style="font-size:20px">
+                        <i>Character's Name</i>
+                    </p>
+                </div>
+                
+                <div class="card border-0 rounded-0 p-1 mt-2" style="height:150px; overflow:auto">
+                    <p class="pl-3 text-muted">
+                        <i>Put the summary of your character's personality here. The box can scroll. Cras pulvinar, augue sit amet fringilla volutpat, leo magna sollicitudin urna, ut euismod dui tortor quis lorem. Aliquam semper eget lacus non mattis. Vestibulum laoreet felis at ante posuere, ac tincidunt est rutrum. Duis et risus at velit finibus dignissim ac nec ante. Praesent quis pretium tortor. Morbi nec orci varius, accumsan dolor eget, sagittis ex. Ut feugiat erat semper mauris vehicula dignissim. Maecenas venenatis luctus rutrum. Fusce nec orci nec dolor accumsan fringilla. In scelerisque ligula at elementum pellentesque. Maecenas non dictum est. Praesent luctus vitae ligula nec rhoncus. Donec pharetra tortor est, eget dictum neque ultricies id.</i>
+                    </p>
+                </div>
+            </div>
+            
+            <div class="col-lg-3">
+                <div class="card rounded-circle mx-auto p-2 bg-transparent" style="width:200px; height:200px">
+                    <img class="d-block mx-auto rounded-circle" src="#">
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+    
+    <div class="card border-0 rounded-0 bg-faded p-2">
+        <div class="card border-0 rounded-0 p-2">
+            <p class="text-primary" style="font-size:20px"><i class="fas fa-user"></i> General Traits</p>
+            
+            <p class="text-muted">Cras pulvinar, augue sit amet fringilla volutpat, leo magna sollicitudin urna, ut euismod dui tortor quis lorem. Aliquam semper eget lacus non mattis. Vestibulum laoreet felis at ante posuere, ac tincidunt est rutrum. Duis et risus at velit finibus dignissim ac nec ante. Praesent quis pretium tortor. Morbi nec orci varius, accumsan dolor eget, sagittis ex. Ut feugiat erat semper mauris vehicula dignissim. Maecenas venenatis luctus rutrum. Fusce nec orci nec dolor accumsan fringilla. In scelerisque ligula at elementum pellentesque. Maecenas non dictum est. Praesent luctus vitae ligula nec rhoncus. Donec pharetra tortor est, eget dictum neque ultricies id.</p>
+        </div>
+    </div>
+    
+    <div class="card border-0 rounded-0 bg-faded p-2">
+        <div class="card border-0 rounded-0 p-2">
+            <p class="text-primary" style="font-size:20px"><i class="fas fa-plus"></i> Positive Traits</p>
+            
+            <p class="text-muted">Cras pulvinar, augue sit amet fringilla volutpat, leo magna sollicitudin urna, ut euismod dui tortor quis lorem. Aliquam semper eget lacus non mattis. Vestibulum laoreet felis at ante posuere, ac tincidunt est rutrum. Duis et risus at velit finibus dignissim ac nec ante. Praesent quis pretium tortor. Morbi nec orci varius, accumsan dolor eget, sagittis ex. Ut feugiat erat semper mauris vehicula dignissim. Maecenas venenatis luctus rutrum. Fusce nec orci nec dolor accumsan fringilla. In scelerisque ligula at elementum pellentesque. Maecenas non dictum est. Praesent luctus vitae ligula nec rhoncus. Donec pharetra tortor est, eget dictum neque ultricies id.</p>
+        </div>
+    </div>
+    
+    <div class="card border-0 rounded-0 bg-faded p-2">
+        <div class="card border-0 rounded-0 p-2">
+            <p class="text-primary" style="font-size:20px"><i class="fas fa-dash"></i> Negative Traits</p>
+            
+            <p class="text-muted">Cras pulvinar, augue sit amet fringilla volutpat, leo magna sollicitudin urna, ut euismod dui tortor quis lorem. Aliquam semper eget lacus non mattis. Vestibulum laoreet felis at ante posuere, ac tincidunt est rutrum. Duis et risus at velit finibus dignissim ac nec ante. Praesent quis pretium tortor. Morbi nec orci varius, accumsan dolor eget, sagittis ex. Ut feugiat erat semper mauris vehicula dignissim. Maecenas venenatis luctus rutrum. Fusce nec orci nec dolor accumsan fringilla. In scelerisque ligula at elementum pellentesque. Maecenas non dictum est. Praesent luctus vitae ligula nec rhoncus. Donec pharetra tortor est, eget dictum neque ultricies id.</p>
+        </div>
+    </div>
+    
+    <div class="card border-0 rounded-0 bg-faded p-2">
+        <div class="card border-0 rounded-0 p-2">
+            <p class="text-primary" style="font-size:20px"><i class="fas fa-moon-stars"></i> Personality with others</p>
+            
+            <p class="text-muted">Cras pulvinar, augue sit amet fringilla volutpat, leo magna sollicitudin urna, ut euismod dui tortor quis lorem. Aliquam semper eget lacus non mattis. Vestibulum laoreet felis at ante posuere, ac tincidunt est rutrum. Duis et risus at velit finibus dignissim ac nec ante. Praesent quis pretium tortor. Morbi nec orci varius, accumsan dolor eget, sagittis ex. Ut feugiat erat semper mauris vehicula dignissim. Maecenas venenatis luctus rutrum. Fusce nec orci nec dolor accumsan fringilla. In scelerisque ligula at elementum pellentesque. Maecenas non dictum est. Praesent luctus vitae ligula nec rhoncus. Donec pharetra tortor est, eget dictum neque ultricies id.</p>
+        </div>
+    </div>
+    
+    <div class="card border-0 rounded-0 bg-faded p-2">
+        <div class="card border-0 rounded-0 p-2">
+            <p class="text-primary" style="font-size:20px"><i class="fas fa-stars"></i> Personality when alone</p>
+            
+            <p class="text-muted">Cras pulvinar, augue sit amet fringilla volutpat, leo magna sollicitudin urna, ut euismod dui tortor quis lorem. Aliquam semper eget lacus non mattis. Vestibulum laoreet felis at ante posuere, ac tincidunt est rutrum. Duis et risus at velit finibus dignissim ac nec ante. Praesent quis pretium tortor. Morbi nec orci varius, accumsan dolor eget, sagittis ex. Ut feugiat erat semper mauris vehicula dignissim. Maecenas venenatis luctus rutrum. Fusce nec orci nec dolor accumsan fringilla. In scelerisque ligula at elementum pellentesque. Maecenas non dictum est. Praesent luctus vitae ligula nec rhoncus. Donec pharetra tortor est, eget dictum neque ultricies id.</p>
+        </div>
+    </div>
+    
+</div>
+
+<!-- DO NOT REMOVE THIS BOX -->
+<div class="container" style="margin-top:20px ; max-width:340px; margin-bottom:150px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/amaris_"><i class="fas fa-moon-stars"></i> Code by Amaris</a></p>
+  </div>
+</div>
