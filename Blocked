@@ -281,8 +281,9 @@
   </div>
 </div>
 
-<div class="justify-content-center">
-    <div class="card" style="width:325px">
-        <p class="p-1 text-center">Code by: <a href="https://toyhou.se/amaris_"><i class="fal fa-moon-stars"></i> Amaris</a> | Dividers from @aurorean</p>
-    </div>
+<!-- DO NOT REMOVE THIS BOX -->
+<div class="container" style="margin-top:20px ; max-width:340px; margin-bottom:150px">
+  <div class="card">
+      <p class="m-2 text-center"><a href="https://toyhou.se/azurekinq_codes"><i class="fas fa-crown"></i> Code by Azurekinq</a></p>
+  </div>
 </div>
